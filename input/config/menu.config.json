@@ -1,0 +1,21 @@
+[
+    {
+        "name": "eleccion",
+        "position": "footerMenu",
+        "items": [
+            {
+                "id": 1758824650237,
+                "label": "Ir a la pagina",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "1"
+    }
+]
