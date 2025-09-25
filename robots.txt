@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/AlejandroGonzaloBarroso/2DAMASI-Alejandro-Gonzalo/sitemap.xml
+Sitemap: https://github.io/AlejandroGonzaloBarroso/2DAMASI-Alejandro-Gonzalo/sitemap.xml
